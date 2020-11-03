@@ -1,0 +1,11 @@
+name: Survival
+version: 0.1
+author: Tempoo50
+main: de.tempoo50.sur.main.Sur
+
+commands:
+
+   gm1:
+      description:
+   gm0:
+      description:
